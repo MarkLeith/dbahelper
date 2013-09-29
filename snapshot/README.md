@@ -1,5 +1,7 @@
-#Snapshot creation scripts for performance schema
-#contributed by Justin Swanhart 
+Snapshot creation scripts for performance schema
+======
+
+##Contributed by Justin Swanhart.  Sep 2013.  Please retain my name in derivative works.  Thanks.  
 
 To create the creates_XX.sql file use an INFORMATION_SCHEMA query:
 
