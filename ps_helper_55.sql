@@ -11,6 +11,7 @@ SOURCE ./procedures/currently_enabled_55.sql
 SOURCE ./procedures/currently_disabled_55.sql
 SOURCE ./procedures/only_enable.sql
 SOURCE ./procedures/truncate_all.sql
+SOURCE ./procedures/collation_fixer.sql
 
 SOURCE ./views/i_s/innodb_buffer_stats_by_schema.sql
 SOURCE ./views/i_s/innodb_buffer_stats_by_table.sql

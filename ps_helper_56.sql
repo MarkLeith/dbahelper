@@ -21,6 +21,7 @@ SOURCE ./procedures/reload_saved_config.sql
 SOURCE ./procedures/reset_to_default.sql
 SOURCE ./procedures/save_current_config.sql
 SOURCE ./procedures/truncate_all.sql
+SOURCE ./procedures/collation_fixer.sql
 
 SOURCE ./views/i_s/innodb_buffer_stats_by_schema.sql
 SOURCE ./views/i_s/innodb_buffer_stats_by_table.sql
